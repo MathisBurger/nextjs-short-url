@@ -5,7 +5,7 @@
   "source": "src/ShortLinkComponent.tsx",
   "repository": "MathisBurger/mui-wrapped-components",
   "scripts": {
-    "build": "webpack --mode production"
+    "build": "npx tsc"
   },
   "dependencies": {
     "react": "^18.3.1",
